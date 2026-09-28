@@ -1,0 +1,42 @@
+export const data = [
+  {
+    question: "Which device is required for the Internet connection?",
+    option1: "Modem",
+    option2: "Router",
+    option3: "LAN Cable",
+    option4: "Pen Drive",
+    ans: 1,
+  },
+  {
+    question: "Which continent has the highest number of countries?",
+    option1: "Asia",
+    option2: "Europe",
+    option3: "North America",
+    option4: "Africa",
+    ans: 4,
+  },
+  {
+    question: "What does CPU stand for?",
+    option1: "Central Process Unit",
+    option2: "Central Processing Unit",
+    option3: "Computer Processing Unit",
+    option4: "Control Processing Unit",
+    ans: 2,
+  },
+  {
+    question: "Which language is primarily used for React?",
+    option1: "Python",
+    option2: "Java",
+    option3: "JavaScript",
+    option4: "C++",
+    ans: 3,
+  },
+  {
+    question: "Which company developed the Android operating system?",
+    option1: "Microsoft",
+    option2: "Apple",
+    option3: "Google",
+    option4: "IBM",
+    ans: 3,
+  },
+];
